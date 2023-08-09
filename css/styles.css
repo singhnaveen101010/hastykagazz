@@ -138,7 +138,7 @@ padding-bottom:3%;
   padding:3rem;
   margin:0;
 }
-@media(max-width:720px)
+@media(max-width:900px)
   {
      .title-image{
       z-index:-1;
